@@ -10,7 +10,7 @@
 
 <!-- 🖋️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+web+experiences;Building+with+Next.js+and+TailwindCSS;Coding+with+passion+and+creativity" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Building+Smart+AI+Solutions;RAG+Systems+and+Agentic+AI;AI+Voice+Calling+%7C+TTS+%26+STT;Workflow+Automation+with+n8n;Always+learning+and+creating+with+AI" alt="Typing animation" />
 </p>
 
 
@@ -24,7 +24,7 @@
 
 💡 I enjoy using technology to solve real-world problems and create value through intelligent automation.
 
-🌐 Project Showcase: SmartBot
+🌐 Project Showcase: <a href="https://smartbot.vetaai.com/"> Click here</a>
 
 ---
 
