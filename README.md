@@ -5,14 +5,13 @@
 
 <!-- 💁‍♀️ Name and Subtitle -->
 <h1 align="center">✨ Hi, I'm <span style="color:#3b82f6;">Mamoon Rasheed</span> 💻</h1>
-<h3 align="center">AI Engineer 🤖 | RAG & Agentic AI | Voice Calling (TTS/STT) | n8n Automation </h3>
+<h3 align="center">AI Engineer 🤖 | RAG & Agentic AI | Voice Calling (TTS/STT) | n8n Automation | Frontend Dev</h3>
 
 
 <!-- 🖋️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Building+Smart+AI+Solutions;RAG+Systems+and+Agentic+AI;AI+Voice+Calling+%7C+TTS+%26+STT;Workflow+Automation+with+n8n;Always+learning+and+creating+with+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+web+experiences;Building+with+Next.js+and+TailwindCSS;Coding+with+passion+and+creativity" alt="Typing animation" />
 </p>
-
 
 
 ## : 💡 About Me
@@ -25,7 +24,7 @@
 
 💡 I enjoy using technology to solve real-world problems and create value through intelligent automation.
 
-🌐 Project Showcase: smartbot.vetaai.com
+🌐 Project Showcase: SmartBot
 
 ---
 
@@ -40,7 +39,7 @@
 
 <!-- 👩‍💻 Animated Coding Girl -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="320px" />
+  <img src="https://images.axios.com/cRRuO2318f81Nepwko6BnyYBK40=/0x0:1920x1080/1920x1080/filters:no_upscale()/2021/08/10/1628624506614.gif" width="320px" />
 </p>
 
 ---
