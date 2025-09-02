@@ -63,5 +63,5 @@
 
 <!-- 🌷 Aesthetic Footer -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0f/21/65/0f216568c6f10ba607cad3c05ad47fed.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=120&section=footer" />
 </p>
