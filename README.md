@@ -5,7 +5,7 @@
 
 <!-- 💁‍♀️ Name and Subtitle -->
 <h1 align="center">✨ Hi, I'm <span style="color:#3b82f6;">Mamoon Rasheed</span> 💻</h1>
-<h3 align="center">AI Engineer 🤖 | RAG & Agentic AI | Voice Calling (TTS/STT) | n8n Automation | Frontend Dev</h3>
+<h3 align="center">AI Engineer 🤖 | RAG & Agentic AI | Voice Calling (TTS/STT) | n8n Automation | MCP Servers</h3>
 
 
 <!-- 🖋️ Typing Animation -->
